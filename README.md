@@ -2,9 +2,6 @@
 
 ## I'm a FrontEnd Developer
 
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-
 ### Connect with me:
 
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
