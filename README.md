@@ -20,7 +20,3 @@
 <br />
 <br /> -->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StanleySB&show_icons=true&count_private=true&theme=tokyonight" />
-
-[linkedin]: https://www.linkedin.com/in/alexander-velesyuk-1a58a21b8/
-[instagram]: https://www.instagram.com/stanley._ss/
-[vk]: https://vk.com/id486853046
